@@ -1,5 +1,5 @@
 # Agentic AI
-My notes on how to succesfully develop AI agents
+My notes on how to successfully develop AI agents
 
 ## Acknowledgments
 
