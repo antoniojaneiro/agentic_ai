@@ -1,4 +1,4 @@
-# agentic_ai
+# Agentic AI
 My notes on how to succesfully develop AI agents
 
 ## Acknowledgments
